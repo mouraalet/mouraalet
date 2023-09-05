@@ -1,12 +1,12 @@
-## Olá! Eu sou a Letícia ツ
+## Hello! I'm Leticia ツ
 
-Sou graduada em Engenharia de Produção e há um ano atrás fiz uma transição de carreira para a área de análise de dados.
+I have a degree in Industrial Engineering and a year ago I made a career switch to data analysis.
 
-Estudando de forma independente, criei uma jornada de aprendizado autodidata baseada em uma metodologia de planejamento estratégico que eu mesma desenvolvi!
+Studying independently, I created a self-taught learning journey based on a strategic planning methodology that I developed myself.
 
-Hoje atuo com análise de dados usando as três ferramentas de visualização mais famosas do mercado: Power BI, Tableau e Google Data Studio. Também atuo com dashboards de Social Listening, tanto na construção do painel, quanto na coleta de dados de diversas redes sociais, utilizando Python.
+Today I work with data analysis using Power BI, Tableau and Google Data Studio. I also work with Social Listening dashboards, both building the panel and collecting data from various social networks, using Python.
 
-Sinta-se a vontade para entrar em contato comigo e entender mais sobre meus estudos e trabalho!
+Feel free to contact me and find out more about my studies and work!
 
   <a href="https://www.linkedin.com/in/leticiaam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
