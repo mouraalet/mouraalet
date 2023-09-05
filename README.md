@@ -1,4 +1,4 @@
-## Hello! I'm Leticia ツ
+## Hello! I'm Letícia ツ
 
 I have a degree in Industrial Engineering and a year ago I made a career switch to data analysis.
 
