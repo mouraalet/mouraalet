@@ -1,13 +1,20 @@
-## Hello! I'm Letícia ツ
+### Hello! I'm Letícia ツ
 
-I have a degree in Industrial Engineering and a year ago I made a career switch to data analysis.
+🔭 I’m currently working as an analytics engineer, focused on collecting, processing and analyzing data. 
 
-Studying independently, I created a self-taught learning journey based on a strategic planning methodology that I developed myself.
+🌱 I'm learning more about data science and python programming.
 
-Today I work with data analysis using Power BI, Tableau and Google Data Studio. I also work with Social Listening dashboards, both building the panel and collecting data from various social networks, using Python.
+✨ I'm looking to colaborate on data-driven solutions.
 
-Feel free to contact me and find out more about my studies and work!
+💬 Feel free to contact me and find out more about my studies and work!
 
-  <a href="https://www.linkedin.com/in/leticiaam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Gmail Badge](https://img.shields.io/badge/-leticiamwork@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leticiamwork@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Letícia%20Moura-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/mouralet/ "Connect on LinkedIn")
+
+### Tools and Technologies
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=plastic&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+
+
  
 </div>
