@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hello! I'm Letícia ツ
 
-👩🏻‍💻 I’m currently working as an analytics engineer, focused on collecting, processing and analyzing data;
+👩🏻‍💻 I’m currently working as a business analyst, focused on collecting, processing and analyzing data;
 
 🌱 I'm currently learning data science and python programming;
 
@@ -35,7 +35,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    ### Tools and Technologies
    <span><img width="11%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></span>
    <img width="14.5%" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
-   <span><img width="10%" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></span>
+   <span><img width="10%" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <span><img width="14.5%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   </span>
   <br/>
   <img width="10.7%" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img width="11%" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
